@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jewellery45
+Bundle-SymbolicName: jewellery45
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: jewellery45
+Export-Package: com.xworkz.jewellery,
+ com.xworkz.jewellery.entity,
+ com.xworkz.jewellery.enums,
+ com.xworkz.jewellery.repo,
+ com.xworkz.jewellery.service,
+ com.xworkz.jewellery.util
